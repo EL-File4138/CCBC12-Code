@@ -1,3 +1,13 @@
+"""
+Fonts.py
+Author: Rorical
+Notator: EL_File4138
+
+A Solution for CCBC12 Timeline E 2066.
+过滤那个该死的字。
+! 效果不佳，请谨慎尝试。
+"""
+
 import cv2
 import numpy as np
 

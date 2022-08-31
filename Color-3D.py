@@ -1,4 +1,14 @@
 # -*- coding: utf-8 -*-
+
+"""
+Color-3D.py
+Author: Rorical
+Notator: EL_File4138
+
+A Solution for CCBC12 Timeline F 1817.
+将所读取的彩虹图投影为3D图形。
+"""
+
 from matplotlib import pyplot as plt
 import cv2
 

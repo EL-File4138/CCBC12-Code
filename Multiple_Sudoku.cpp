@@ -1,3 +1,14 @@
+// Coding: UTF-8
+
+/*
+Multiple_Sudoku.cpp
+Author: EL_File4138
+Notator: EL_File4138
+
+! Graveyard, please do not use.
+*/
+
+
 #include <iostream>
 #include <set>
 #include <algorithm>
